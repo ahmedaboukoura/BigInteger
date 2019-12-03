@@ -9,3 +9,8 @@ This is a simple linked list, NOT circular, with a front pointer. The sign (posi
 Also, there can never be zeros at the end of the list. Such zeros will be insignificant. So, for instance, 00754 will be stored as: 
    4 -> 5 -> 7 (NOT 4 -> 5 -> 7 -> 0 -> 0)
 Consequently, the value 0 will be stored as an EMPTY LINKED LIST. The number of digits is 0, and it is not negative.
+
+Checkout the full discription page for this project from here 
+https://www.cs.rutgers.edu/courses/112/classes/fall_2019_venugopal/progs/prog1/prog1.html
+
+
